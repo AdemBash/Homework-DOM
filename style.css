@@ -1,0 +1,27 @@
+/* Общие стили для всех блоков */
+.block {
+    padding: 15px;
+    border-radius: 8px;  /* Скругление углов */
+    margin-bottom: 20px;
+}
+
+/* Стили для первого блока */
+#block1 {
+    background-color: #f0e4d7;  /* Цвет фона */
+    color: #5a3d2b;             /* Цвет текста */
+    font-size: 18px;            /* Размер шрифта */
+}
+
+/* Стили для второго блока */
+#block2 {
+    background-color: #d7eff0;
+    color: #2b5a4e;
+    font-size: 20px;
+}
+
+/* Стили для третьего блока */
+#block3 {
+    background-color: #e6d7f0;
+    color: #3b2b5a;
+    font-size: 22px;
+}
